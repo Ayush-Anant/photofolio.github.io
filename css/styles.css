@@ -1,0 +1,253 @@
+#title {
+  background-color: #679b9b;
+ padding-bottom:  20px;
+ margin-bottom: 20px#
+
+}
+.pgImage{
+  height: 200px;
+  width: 300px;
+}
+.gImage{
+  height: 200px;
+  width: 300px;
+
+}
+.sImage{
+  height: 227px;
+  width: 300px;
+  padding-top: 30px;
+}
+.row{
+  text-align: center;
+}
+.school{
+    padding-top: 30px
+}
+.pg{
+  margin-left: 50px;
+    padding-top: 30px;
+}
+.graduate{
+  margin-right: 100px;
+  margin-left: 100px;
+  padding-top: 30px;
+}
+.head-title{
+  font-family: "Montserrat-black", sans-serif;
+  font-size: 3rem;
+  line-height: 1.5;
+  color: #faf4f4;
+  text-align: left;
+}
+.container-fluid{
+  padding: 3% 10% 10% 10%;
+  font-family: "Montserrat-black", sans-serif;
+}
+.iphone{
+
+  width: 60%;
+position: absolute;
+  left: 100px;
+
+}
+@media (max-width: 1028px) {
+  .iphone {
+  transform: rotate(0);
+  position: static;
+  text-align: center;
+    }
+
+}
+@media (max-width: 1028px) {
+  .row{
+    text-align: center;
+  }
+
+}
+
+
+#title{
+padding-bottom: 0;
+}
+.video{
+  border-radius: 10%;
+}
+.row{
+  margin-top: 20px;
+}
+/* #features{margin-bottom: 20px; */
+
+}
+.navbar-brand{
+  font-family:"ubuntu", sans-serif;
+  font-size: 4.5rem;
+  font-weight: bold;
+  padding: 0;
+  margin-left: 0;
+}
+.row{
+  padding-top:1rem;
+}
+
+.nav-item{
+  font-size: 1.5rem;
+  padding: 10px;
+}
+ .download-button{
+   margin: 20px 0 20px;
+ }
+ .navbar{
+   padding-left:  0;
+ }
+ /* section 2 features */
+
+#features{
+  text-align: center;
+  margin-top: -20px;
+z-index: 1;
+position: relative;
+background-color: #fff;
+
+}
+.fas{
+  font-size:  3rem;
+  margin: 10px;
+  color: #ef8171;
+  margin-top: -10px;
+
+
+}
+.row{
+  margin-top: 20px;
+}
+.fas:hover{
+  color: #ff4c68
+}
+.para-features{
+  color: #8f8f8f
+}
+h3{
+  font-family: 'Montserrat-bold', sans-serif;
+  font-size: 1.5rem;
+}
+
+
+  /* <!-- Testimonials --> */
+
+#testimonials{
+background-color: #679b9b;
+
+text-align: center;
+font-size: 2rem;
+line-height: 1.5;
+color: #fff;
+
+}
+h2{
+  font-size:2.5rem;
+
+}
+.carousel-item{
+padding: 6% 15%;}
+
+
+.timage{
+  border-radius: 50%;
+  width: 10%;
+  margin: 20px;
+
+}
+.testimonial-image{
+  border-radius: 50%;
+  width: 10%;
+  margin: 20px;
+}
+
+/* Press */
+
+.job{
+  text-align: center;
+}
+.jobClass{
+  display: inline-block;
+
+}
+.jobImage1{
+  border-radius: 50%;
+  padding-bottom:
+width: 20px;
+  height: 50px;
+  margin-left: 60px;
+
+}
+.pricing-class{
+  background-color: #679b9b;
+  margin-bottom: 0px;
+
+}
+.pricing-head{
+  margin-bottom: 0px;
+}
+
+
+
+
+.jobImage2{
+  /* margin-right: 400px; */
+
+  width: 200px;
+  height: 50px;
+
+}
+.jobClass{
+  margin-top: 5px;
+}
+
+/* pricing */
+
+.row-footer{
+  text-align: center;
+  margin: auto 200px;
+}
+.pricing-class{text-align: center;
+
+}
+.ejis2{
+  font-size: 1rem;
+  text-align: center;
+  margin-top: 10px;
+}
+
+/* <!-- Call to Action --> */
+#cta{ background-color:#ff4c68;
+  text-align: center;
+  height:400px ;
+
+}
+
+.footer-head{
+  font-family: "Montserrat-black", sans-serif;
+  font-size: 3rem;
+
+  color: #faf4f4;
+  padding-top: 100px;
+}
+.footer-button{
+   margin: 20px 10px 20px;
+   font-family: "Montserrat-black", sans-serif;
+   font-weight: 2rem;
+   color: #fff;
+
+}
+
+#footer{
+  text-align: center;
+  padding: 40px;
+}
+.row{
+
+}
+.oct
+{
+  margin-left: 70px;
